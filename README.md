@@ -24,7 +24,7 @@ UCL 电信硕士 · 华北电力大学自动化本科 · 2027 届
 
 **[sentinel-ops](https://github.com/huanggeyu717-beep/sentinel-ops)** · AI 原生 IoT 事故自动化平台（个人项目）
 
-管理员用一句自然语言写下运营规则，Agent 把它编译成受限 DSL 策略，先在历史数据上回放模拟，再交给另一位管理员审批发布。审批约束写在数据库里：没有审批记录，发布记录就插不进去。项目包含 100 条任务的评测集和五组消融对照，任务成功率从 35% 提到 73%，每个数字都附 run_id，可以离线重算（[消融结果](https://github.com/huanggeyu717-beep/sentinel-ops/blob/main/evals/runs/summary_ablation.md)）。可以用 Docker Compose 在本地运行。
+管理员用一句自然语言写下运营规则，Agent 把它编译成受限 DSL 策略，先在历史数据上回放模拟，再交给另一位管理员审批发布。审批约束写在数据库里：没有审批记录，发布记录就插不进去。项目包含 100 条任务的评测集和五组消融对照，任务成功率从 35% 提到 73%。可以用 Docker Compose 在本地运行。
 
 `FastAPI` `React / TypeScript` `PostgreSQL` `Docker`
 
