@@ -1,6 +1,20 @@
-## 黄戈语 (Geyu Huang)
+<div align="center">
 
-UCL 电信硕士，华北电力大学自动化本科，2027 届。
+## 黄戈语 Geyu Huang
+
+UCL 电信硕士 · 华北电力大学自动化本科 · 2027 届
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat-square)
+
+</div>
 
 我的工作分两条线：一条是 AI Agent 工程，做工具调用、权限控制、评测与全栈应用；另一条是电力场景下的建模与优化，包括本科阶段的微电网调度，以及硕士阶段的宽带电力线通信与通感一体化研究。
 
